@@ -1,0 +1,12 @@
+#  environment document
+
+matplotlib
+numpy
+
+
+
+
+
+
+
+  
