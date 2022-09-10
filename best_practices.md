@@ -1,8 +1,8 @@
 # Best practices 
 
 
-This document might also have been titled 'how to work well with others, through code'
-
+This document might also have been titled 'how to work well with others, through code.' The truth is that that code is very similar to writing. There are a lot of ways to say things and get your point across, but some more elegant than others. It doesn't actually matter very much if you are not elegant, so long as others (both people and computers) understand you. Unfortuntely, there are a few mistakes that can make this very difficult.
+Therefore, a few reccomendations:
 
 
 ### Pep-8 check 
@@ -34,6 +34,8 @@ Mistakes are inevitable. Creating a repository in such a way that you can't easi
                        |
 
 And eventually you live in a forest. If you want to go backwards, how? Half of backwards was on one branch and half was on another at best. More likely, you now have hundreds of vaired branches that all have part of your history. Good luck rewinding. You should have used rebase. Keep the trees in the forest and out of our code.
+
+          
                                                                                               
                                           ░░▒▒░░░░░░▒▒                                    
                               ░░░░▒▒░░░░░░░░░░░░░░░░▒▒░░                                  
@@ -47,15 +49,15 @@ And eventually you live in a forest. If you want to go backwards, how? Half of b
           ░░▒▒▒▒░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒░░░░░░░░▒▒░░░░░░░░▒▒▒▒▒▒░░▒▒░░▒▒▒▒▒▒▒▒              
           ░░░░░░▒▒░░░░░░░░▒▒▒▒▒▒▒▒░░▒▒▒▒▒▒▒▒▓▓▓▓▒▒▒▒░░▒▒▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒              
     ░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░▒▒▒▒▓▓▒▒░░░░▒▒▒▒▒▒▒▒▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒            
-  ░░░░░░░░░░▒▒▒▒▓▓▒▒▒▒▒▒▒▒▒▒▒▒▓▓░░░░▒▒▒▒▒▒▒▒██░░▒▒░░▒▒▓▓▒▒▒▒▒▒▒▒▒▒▒▒░░▒▒▒▒▒▒▒▒▒▒          
-  ░░▒▒░░░░░░▒▒▒▒▒▒▒▒▒▒▓▓░░▓▓▒▒▓▓▓▓▒▒░░▒▒▓▓▓▓▒▒░░▒▒░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▒▒▒▒░░▒▒▒▒▒▒░░        
-  ░░░░░░░░░░░░▓▓▒▒▒▒▒▒░░▒▒▓▓▓▓▒▒▓▓██▓▓████▓▓▓▓▒▒▓▓▓▓▒▒▓▓▒▒▓▓▓▓▒▒▒▒▓▓▓▓▒▒▒▒▒▒▒▒▒▒░░▒▒░░    
-  ░░▒▒░░░░░░▒▒▒▒▓▓▒▒▓▓░░░░▒▒▒▒██▓▓▓▓██████▒▒██▓▓▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓▒▒▓▓▓▓▒▒░░░░▒▒░░░░░░▒▒▒▒  
+    ░░░░░░░░░░▒▒▒▒▓▓▒▒▒▒▒▒▒▒▒▒▒▒▓▓░░░░▒▒▒▒▒▒▒▒██░░▒▒░░▒▒▓▓▒▒▒▒▒▒▒▒▒▒▒▒░░▒▒▒▒▒▒▒▒▒▒          
+    ░░▒▒░░░░░░▒▒▒▒▒▒▒▒▒▒▓▓░░▓▓▒▒▓▓▓▓▒▒░░▒▒▓▓▓▓▒▒░░▒▒░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▒▒▒▒░░▒▒▒▒▒▒░░        
+   ░░░░░░░░░░░░▓▓▒▒▒▒▒▒░░▒▒▓▓▓▓▒▒▓▓██▓▓████▓▓▓▓▒▒▓▓▓▓▒▒▓▓▒▒▓▓▓▓▒▒▒▒▓▓▓▓▒▒▒▒▒▒▒▒▒▒░░▒▒░░    
+   ░░▒▒░░░░░░▒▒▒▒▓▓▒▒▓▓░░░░▒▒▒▒██▓▓▓▓██████▒▒██▓▓▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓▒▒▓▓▓▓▒▒░░░░▒▒░░░░░░▒▒▒
       ▒▒▒▒▒▒▒▒▒▒▓▓▒▒▓▓▒▒▒▒▒▒▓▓██▒▒██████▓▓▓▓▓▓▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓▒▒▒▒▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░░░  
         ▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓██▓▓████▓▓░░░░▓▓  ▓▓▓▓▓▓▓▓▓▓▒▒▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░▒▒░░
-          ▒▒▒▒▒▒▒▒▓▓▓▓▓▓▒▒▓▓██░░▒▒▓▓      ▓▓▓▓  ▓▓▓▓▓▓▓▓▒▒░░░░▓▓▓▓▒▒▓▓▓▓▒▒▒▒▒▒░░░░▒▒▒▒▒▒  
-          ░░░░    ▓▓▒▒  ▒▒▓▓▓▓    ▒▒▒▒▒▒▓▓▒▒▓▓░░▒▒▓▓░░      ▓▓▓▓▒▒░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░  
-                          ▓▓▓▓      ▓▓▒▒▓▓▓▓▓▓▒▒▓▓▓▓      ░░▓▓          ░░▒▒░░▒▒░░░░░░    
+          ▒▒▒▒▒▒▒▒▓▓▓▓▓▓▒▒▓▓██░░▒▒▓▓      ▓▓▓▓  ▓▓▓▓▓▓▓▓▒▒░░░░▓▓▓▓▒▒▓▓▓▓▒▒▒▒▒▒░░░░▒▒▒▒  
+          ░░░░    ▓▓▒▒  ▒▒▓▓▓▓    ▒▒▒▒▒▒▓▓▒▒▓▓░░▒▒▓▓░░      ▓▓▓▓▒▒░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░  
+                          ▓▓▓▓      ▓▓▒▒▓▓▓▓▓▓▒▒▓▓▓▓      ░░▓▓      ░░▒▒░░▒▒░░░░░░    
                           ▒▒▒▒▓▓▓▓▒▒██▒▒▓▓▓▓▒▒▓▓▓▓    ▓▓▒▒▓▓                              
                               ▓▓▓▓▒▒▒▒▓▓▒▒▓▓▓▓▓▓▓▓▒▒▓▓▓▓░░                                
                                 ▓▓▓▓▒▒▓▓▒▒▒▒██████▓▓                                      
