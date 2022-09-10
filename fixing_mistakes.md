@@ -1,10 +1,14 @@
 # When you make a mistale
 
-
-This document has recommendations for when you made a mistake:
+You will make mistakes no matter what. The worst mistake is not even trying. 
+This document has recommendations for when you made smaller mistakes:
 
 [You pushed your mistake to the shared repo](#shared)
+
+
 [You added a junk file and only added it, but did not commit](#added)
+
+
 [You changed stuff, but did not want to commit it](#not_adding)
 
 ### Shared your mistake
