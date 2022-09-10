@@ -11,6 +11,9 @@ This document has recommendations for when you made smaller mistakes:
 
 [You changed stuff, but did not want to commit it](#not_adding)
 
+
+[You are completely lost](#lost)
+
 ### Shared your mistake
 #### shared
 
@@ -27,6 +30,12 @@ You just added a bunch of stuff you should not have. No worries! Just remove the
 #### not_adding
 
 You just modified a bunch of stuff and you should not have the modifications up on the main repo. When you type `git status` you see this and you want to go back. No worries, just `git restore <file_name>`
+
+
+### You have gotten lost
+#### lost
+
+You have entered some kind of version control nightmare. Git is telling you to do stange things that make no sense to you. Stop. If you aren't sure what something does, you can go to a different terminal, and type `git help`. Follow the instructions.
 
 
 
