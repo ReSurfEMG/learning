@@ -30,6 +30,11 @@ There is one main branch, and the bigger a project gets, the more you should sta
 If you see someone is working on a specific function (check the project board), now is not the time to write your own version of it named exactly the same thing. Wait until they finish, then rebase your fork or branch on thier work after it has been pulled to the main branch. If you just can't wait, then use common sense and rename your function something else. If person A works on lines 30 to 40, and person B works on lines 30 to 40, and they both continually update the code at the same time, they will do twice the work to get less than half the results. Always check the project board, and communicate with others.   
 
 
+### Never hard-code a path
+
+If you are working by yourself on a file no one else needs, hard-code your paths for convenience. A hard coded path is something like this: "C:/Projects/my_project96/neverland/data/M004/009/". Fine for messing around at home along but the moment you start working with others, this makes problems. Both [ReSurfEMG](https://github.com/ReSurfEMG/ReSurfEMG) and [eegyolk](https://github.com/eegyolk-ai/eegyolk) libraries now have examples where hard coded paths are eliminated by having a config module that refers to a json on the user server. Follow that pattern, or make paths relative. Of course if the path gets a lot of data, don't push it up to the shared repository, use the .gitignore file to keep it out ( Github limits the amount of data you can put up there anyways) 
+
+
 ### Never merge
 
 Mistakes are inevitable. Creating a repository in such a way that you can't easily get out of your mistakes is not. At some point you will realize you made a big mistake and want to rewind to an earlier point in your history. If you history is a bunch of sequential commits (this happens when you use rebase), then you just need to rewind back up your linear history. If you have been using merge you don't have a bunch of sequential commits in a way that makes sense. Your history looks like a tree. Do the following enough times:
