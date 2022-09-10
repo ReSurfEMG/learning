@@ -4,7 +4,7 @@ Binders and other resources for learning the basic computational skills needed t
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ReSurfEMG/learning/main)
 
-For a practical beginner introduction to Python, we reccomend [the software carpentry on Python](https://swcarpentry.github.io/python-novice-inflammation/). To learn notebook navigation, as well as specific tips about ReSurfEMG we reccomend using our binders. 
+For a practical beginner introduction to Python, we reccomend [the software carpentry on Python](https://swcarpentry.github.io/python-novice-inflammation/). For some tips on coding on our project, see our [best_practices.md](https://github.com/ReSurfEMG/learning/blob/main/best_practices.md)  file .To learn notebook navigation, as well as more specific tips about ReSurfEMG we reccomend using our Jupyter binders (just click on the badge links). 
 
 Video demonstration: to see videos click the links below (more on the way)
 
