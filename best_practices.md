@@ -25,6 +25,11 @@ Eventually, you will want to do something in command line or with some other met
 The most proper way to add notebook on shahred repository is to clear the kernel, run the notebook from top top bottom, then clear the whole thing out again. This means no outputs are sent to the shared repository. We have left some notebooks before the last stage as we think community members may benefit. In no circumststances should you ever commit a notebook in an intermediate state (you ran some of the cells out of order). Because variables are kept saved, this inevitably shows erroneous results. 
 
 
+### One issue, one commit, one push
+
+If you have a lot of work it's tempting to do it all, and then add, commit and push it. Or just commit and push whenever you are afraid you need to save stuff. This is the wrong approach. Remember you may have to roll back out of your work at some point, so if your push had changes to 3 different files, it's harder in case just one thing is wrong. Solve an issue, add, commit, push, then repeat. 
+
+
 ### Stay off the main branch, open your own
 
 There is one main branch, and the bigger a project gets, the more you should stay off it, always. The proper way to change things is open your own fork (or branch if you are an invited to), change things there, then put in a pull request. This is much better for other people who have expectations that the main branch is fairly stable, and won't have an accidental bug popping up every other commit. In theory you could play on the main branch, and never push it back. In reality things never work that way for long. It's customary to open a branch with your github username and then '/exploring' to play around. If you then want to catch your branch up to changes on the main, rebase it.
