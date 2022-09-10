@@ -1,8 +1,8 @@
 # Best practices 
 
 
-This document could also have been titled 'how to work well with others, through Python code.' The truth is that that coding, whether in Python or any other language, is very similar to writing. There are a lot of ways to say things and get your point across, but some more way elegant than others. It actually matters less if you are elegant, than if others (both people and computers) can understand you at all. Unfortuntely, there are a few mistakes that can make understanding very difficult or even impossible.
-Therefore, a few reccomendations:
+This document could also have been titled 'how to work well with others, through Python code.' The truth is that that coding, whether in Python or any other language, is very similar to writing. There are a lot of ways to say things and get your point across, but some more way elegant than others. It actually matters less if you are elegant, than if others (both people and computers) can understand you at all. Unfortunately, there are a few mistakes that can make understanding very difficult or even impossible.
+Therefore, a few recommendations:
 
 
 ### Pep-8 check 
@@ -17,7 +17,7 @@ If there is any part of your work that would not be obvious, explain it in the c
 
 ### Name your folders and files without spaces
 
-Eventually, you will want to do something in command line with some other method that only deals well with things with sensible names. I know your folder entitled 'I don't care about my data' has a perfectly sensible name in your eyes, but for command line that is at a minumum 6 different variables, assuming you know how to write a special charecter to get the "'" in there. If you want such a long name it should be 'I_do_not_care_about_my_data' . The same goes for file names and all variables. Keep all names and variables space free. 
+Eventually, you will want to do something in command line or with some other method that only deals well with things with sensible names. I know your folder entitled 'I don't care about my data' has a perfectly sensible name in your eyes, but for command line that is at a minimum 6 different variables, assuming you know how to write a special character to get the "'" in there. If you want such a long name it should be 'I_do_not_care_about_my_data' . The same goes for file names and all variables. Keep all names and variables space free. 
 
 
 ### Stay off the main branch, open your own
@@ -27,7 +27,7 @@ There is one main branch, and the bigger a project gets, the more you should sta
 
 ### Even off the main branch, stay out of areas others are working on
 
-If you see someone is working on a specific function (check the project board), now is not the time to write your own version of it named exactly the same thing. Wait until they finish, then rebase your fork or branch on thier work after it has been pulled to the main branch. If you just can't wait, then use common sense and rename your function something else. If person A works on lines 30 to 40, and person B works on lines 30 to 40, and they both continually update the code at the same time, they will do twice the work to get less than half the results. Always check the project board, and communicate with others.   
+If you see someone is working on a specific function (check the project board), now is not the time to write your own version of it named exactly the same thing. Wait until they finish, then rebase your fork or branch on their work after it has been pulled to the main branch. If you just can't wait, then use common sense and rename your function something else. If person A works on lines 30 to 40, and person B works on lines 30 to 40, and they both continually update the code at the same time, they will do twice the work to get less than half the results. Always check the project board, and communicate with others.   
 
 
 ### Never hard-code a path
@@ -44,7 +44,7 @@ Mistakes are inevitable. Creating a repository in such a way that you can't easi
                       \/                 
                        |
 
-And eventually you live in a forest. If you want to go backwards, how? Half of backwards was on one branch and half was on another at best. More likely, you now have hundreds of vaired branches that all have part of your history. Good luck rewinding. You should have used rebase. Keep the trees in the forest and out of our code.
+And eventually you live in a forest. If you want to go backwards, how? Half of backwards was on one branch and half was on another at best. More likely, you now have hundreds of varied branches that all have part of your history. Good luck rewinding. You should have used rebase. Keep the trees in the forest and out of our code.
 
 
 
