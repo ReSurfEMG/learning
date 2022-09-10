@@ -1,7 +1,7 @@
 # Best practices 
 
 
-This document might also have been titled 'how to work well with others, through code.' The truth is that that code is very similar to writing. There are a lot of ways to say things and get your point across, but some more elegant than others. It doesn't actually matter very much if you are not elegant, so long as others (both people and computers) understand you. Unfortuntely, there are a few mistakes that can make this very difficult.
+This document could also have been titled 'how to work well with others, through Python code.' The truth is that that coding, whether in Python or any other language, is very similar to writing. There are a lot of ways to say things and get your point across, but some more way elegant than others. It doesn't actually matter very much if you are not elegant, so long as others (both people and computers) can understand you. Unfortuntely, there are a few mistakes that can make this very difficult or even impossible.
 Therefore, a few reccomendations:
 
 
