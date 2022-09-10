@@ -1,7 +1,7 @@
 # Best practices 
 
 
-This document could also have been titled 'how to work well with others, through Python code.' The truth is that that coding, whether in Python or any other language, is very similar to writing. There are a lot of ways to say things and get your point across, but some more way elegant than others. It doesn't actually matter very much if you are not elegant, so long as others (both people and computers) can understand you. Unfortuntely, there are a few mistakes that can make this very difficult or even impossible.
+This document could also have been titled 'how to work well with others, through Python code.' The truth is that that coding, whether in Python or any other language, is very similar to writing. There are a lot of ways to say things and get your point across, but some more way elegant than others. It actually matters less if you are elegant, than if others (both people and computers) can understand you at all. Unfortuntely, there are a few mistakes that can make understanding very difficult or even impossible.
 Therefore, a few reccomendations:
 
 
@@ -23,6 +23,12 @@ Eventually, you will want to do something in command line with some other method
 ### Stay off the main branch, open your own
 
 There is one main branch, and the bigger a project gets, the more you should stay off it, always. The proper way to change things is open your own fork (or branch if you are an invited to), change things there, then put in a pull request. This is much better for other people who have expectations that the main branch is fairly stable, and won't have an accidental bug popping up every other commit. In theory you could play on the main branch, and never push it back. In reality things never work that way for long. It's customary to open a branch with your github username and then '/exploring' to play around. If you then want to catch your branch up to changes on the main, rebase it.
+
+
+### Even off the main branch, stay out of areas others are working on
+
+If you see someone is working on a specific function (check the project board), now is not the time to write your own version of it named exactly the same thing. Wait until they finish, then rebase your fork or branch on thier work after it has been pulled to the main branch. If you just can't wait, then use common sense and rename your function something else. If person A works on lines 30 to 40, and person B works on lines 30 to 40, and they both continually update the code at the same time, they will do twice the work to get less than half the results. Always check the project board, and communicate with others.   
+
 
 ### Never merge
 
