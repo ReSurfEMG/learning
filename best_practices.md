@@ -20,6 +20,11 @@ If there is any part of your work that would not be obvious, explain it in the c
 Eventually, you will want to do something in command line or with some other method that only deals well with things with sensible names. I know your folder entitled 'I don't care about my data' has a perfectly sensible name in your eyes, but for command line that is at a minimum 6 different variables, assuming you know how to write a special character to get the "'" in there. If you want such a long name it should be 'I_do_not_care_about_my_data' . The same goes for file names and all variables. Keep all names and variables space free. 
 
 
+### Keep your notebooks cleaned out
+
+The most proper way to add notebook on shahred repository is to clear the kernel, run the notebook from top top bottom, then clear the whole thing out again. This means no outputs are sent to the shared repository. We have left some notebooks before the last stage as we think community members may benefit. In no circumststances should you ever commit a notebook in an intermediate state (you ran some of the cells out of order). Because variables are kept saved, this inevitably shows erroneous results. 
+
+
 ### Stay off the main branch, open your own
 
 There is one main branch, and the bigger a project gets, the more you should stay off it, always. The proper way to change things is open your own fork (or branch if you are an invited to), change things there, then put in a pull request. This is much better for other people who have expectations that the main branch is fairly stable, and won't have an accidental bug popping up every other commit. In theory you could play on the main branch, and never push it back. In reality things never work that way for long. It's customary to open a branch with your github username and then '/exploring' to play around. If you then want to catch your branch up to changes on the main, rebase it.
