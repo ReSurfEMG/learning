@@ -1,31 +1,31 @@
-# Best practices 
+# Best practices :trophy:
 
 
 This document could also have been titled 'how to work well with others, through Python code.' The truth is that that coding, whether in Python or any other language, is very similar to writing. There are a lot of ways to say things and get your point across, but some more way elegant than others. It actually matters less if you are elegant, than if others (both people and computers) can understand you at all. Unfortunately, there are a few mistakes that can make understanding very difficult or even impossible.
 Therefore, a few recommendations:
 
 
-### Pep-8 check 
+### Pep-8 check :8ball:
 
 Pep-8 (https://peps.python.org/pep-0008/) is the way to make sure your code is in line with standards. You can get any one of a variety of tools to help you fix formatting mistakes. In any package I build since 2022 you can run a lint easily, and the CI will have a lint checker. What is impossible to automate is using the proper convention in terms of how classes versus functions are called. Classes have caps, functions do not. If you want what you write to make sense to everyone keep your code in line with conventions. In extreme cases your code will do something different than you programmed it to just because the formatting is incorrect.
 
 
-### When in doubt, comment
+### When in doubt, comment :pencil2:
 
 If there is any part of your work that would not be obvious, explain it in the comments. If in doubt about whether it is obvious, just add comments. We can take them out easily, but if we don't know what you intended, we can't put them in for you.
 
 
-### Name your folders and files without spaces
+### Name your folders :file_folder: and files without spaces 
 
 Eventually, you will want to do something in command line or with some other method that only deals well with things with sensible names. I know your folder entitled 'I don't care about my data' has a perfectly sensible name in your eyes, but for command line that is at a minimum 6 different variables, assuming you know how to write a special character to get the "'" in there. If you want such a long name it should be 'I_do_not_care_about_my_data' . The same goes for file names and all variables. Keep all names and variables space free. 
 
 
-### Keep your notebooks cleaned out
+### Keep your notebooks :notebook: cleaned out
 
 The most proper way to add notebook on shahred repository is to clear the kernel, run the notebook from top top bottom, then clear the whole thing out again. This means no outputs are sent to the shared repository. We have left some notebooks before the last stage as we think community members may benefit. In no circumststances should you ever commit a notebook in an intermediate state (you ran some of the cells out of order). Because variables are kept saved, this inevitably shows erroneous results. 
 
 
-### One issue, one commit, one push
+### One issue, one commit, one push :one:
 
 If you have a lot of work it's tempting to do it all, and then add, commit and push it. Or just commit and push whenever you are afraid you need to save stuff. This is the wrong approach. Remember you may have to roll back out of your work at some point, so if your push had changes to 3 different files, it's harder in case just one thing is wrong. Solve an issue, add, commit, push, then repeat. 
 
