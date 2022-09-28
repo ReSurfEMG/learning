@@ -11,6 +11,8 @@ Reccomended Integrated Development Environment/IDE: VSCode
 
 Reccomended Package manager: Conda/Anaconda
 
+        Alternative package manager: mamba (will take effort and knowledge)
+
 Version control: Git
 
 While there is some flexibility around the IDE for newbies, we highly reccomend you use Conda/Anaconda as  a package manager if you are relatively new to working with Python. By installing with Conda you avoid conflicting packages creating unexpected behaviour (most of the time). 
