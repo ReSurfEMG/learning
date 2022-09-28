@@ -9,13 +9,15 @@ Reccomended Integrated Development Environment/IDE: VSCode
 
         Alternative IDEs: Pycharm, IDLE etc. 
 
-Reccomended Package manager: Conda/Anaconda
+Reccomended Package Manager: Conda/Anaconda
 
-        Alternative package manager: mamba (will take effort and knowledge)
+        Alternative Package Managers: Pip, Mamba (will take effort and lots of knowledge)
 
 Version control: Git
 
-While there is some flexibility around the IDE for newbies, we highly reccomend you use Conda/Anaconda as  a package manager if you are relatively new to working with Python. By installing with Conda you avoid conflicting packages creating unexpected behaviour (most of the time). 
+        Alternative VC: Perforce (crazy, nobody cares, or knows how to help you, good thing you are a genius)
+
+While there is some flexibility around the IDE for newbies, we highly reccomend you use our prescribed stack if you are relatively new to working with Python. Not only will you be in the same boat as most of the original developers, but by installing with Conda you avoid conflicting packages creating unexpected behaviour (most of the time). 
 
 We expect you to bring a laptop to the conference, and if you have a choice and are new to code, please choose a Windows machine. If you are a seasoned Linux user who loves eMacs,then we have no doubt that you know your way around code, and will need less help. Our code is written to be cross-platform so you can use Linux, Mac or Windows. However if the world of Python is entirely new to you, you would put yourself at an advantage to use the tools used by most of the core development team most of the time. 
 
