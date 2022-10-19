@@ -1,0 +1,15 @@
+ReSurfEMG Newsletter # 2: Git it done
+
+Welcome to the second ReSurfEMG newsletter. As we get ready for the upcoming conference, we are sending information to harmonize and refine our shared understanding of many issues. We hope communication will be a two way street, and you should feel free to be in contact with us about your hopes and desires not only for the conference but more importantly how the field will change and move in the next years. Perhaps a working group will form, there are so many possibilities, but to move the field forward we all need to move forward in our skills.
+
+In the last edition we focused on basic tool sets. We mentioned that we are using Git for Version control. I'm very happy to report we had our first cross University Git learning collaboration already! We played a home-made game designed to teach some basic Git commands. It's worth noting that depending upon your machine you can play online games for the same purpose. For people not on Window's machines, we reccomend [OhmyGit!](https://ohmygit.org/). There is also [the Git Game](https://github.com/git-game/git-game) however it has not been updated for almost a decade. Code related to specific implementations in computer code tends to change quickly, so as a general rule of thumb, if you find a library or code base where you see no changes for years, it is safe to assume you are looking at 'abandonware.' 
+
+Refining and testing our own Git game is an ongoing project. Reactions to the concept have ranged from "sounds like fun" to "I would sabotage such offensive nonsense." In general the gamification of learning is a trend not without detractors. Some people like learning with games, and other people hate it. There are valid arguments on both sides, and invalid arguments as well. One argument I have heard is that gamification makes learning fun (and we all know learning should involve no fun). In the end anyone's analusis if how we should be learning often comes down to taste. Whatever you taste, we do highly reccomend you get up to speed on Git. Version control is a fundamental skill for any modern approach to computationally heavy science work.
+
+We would like to give every opportunity to learners to catch up on skills related to Python, Git and working with code. If you have ideas, specific questions or suggestions about learning these skills please be in touch. Additionally, if there are any participants for whom everything related to ode is all a new world, we will make some hours available from our team to yours in order to start catching you up. Please contact Dr. Moore at  c.moore@escienceceneter.nl if you are interested in this. 
+
+If you feel a bit overwhelmed by the amount of technology you must grasp to work with EMG you are not alone. Keep in mind that while this makes the work challenging, it also means we are on the very edge of innovation. We are all finding and discovering new information. What a glorious task.
+
+
+Keep learning and see you soon! 
+The ReSurfEMG Team
