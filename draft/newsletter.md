@@ -1,4 +1,4 @@
-::newspaper: ReSurfEMG Newsletter # 1: Registration and The Suggested Stack :mailbox_with_mail:
+:newspaper: ReSurfEMG Newsletter # 1: Registration and The Suggested Stack :mailbox_with_mail:
 
  
 Welcome to the ReSurfEMG newsletter. You will sporadically receive this newsletter before the upcoming conference. Within a couple of weeks you will receive the  to officially register for the conference from the Lorentz center. Please keep your eyes open for the email, and register soon after you get it.  
