@@ -1,4 +1,4 @@
-ReSurfEMG Newsletter # 1: Registration and The Suggested Stack 
+::newspaper: ReSurfEMG Newsletter # 1: Registration and The Suggested Stack :mailbox_with_mail:
 
  
 Welcome to the ReSurfEMG newsletter. You will sporadically receive this newsletter before the upcoming conference. Within a couple of weeks you will receive the  to officially register for the conference from the Lorentz center. Please keep your eyes open for the email, and register soon after you get it.  
@@ -28,7 +28,7 @@ While there is some flexibility around the IDE for newbies, we highly recommend 
 
 We expect you to bring a laptop to the conference, and if you have a choice and are new to code, please choose a Windows machine. If you are a seasoned Linux user who loves eMacs, then we have no doubt that you know your way around code, and will need less help. Our code is written to be cross-platform so you can use Linux, Mac or Windows. However for full disclosure we must mention that while Dr. Moore occasionally work on the code from a Linux machine, most people are using Windows, and no one in the core development team uses a Mac yet. If the world of Python is entirely new to you, you would put yourself at an advantage to use the tools used by most of the core development team most of the time.  
 
-We hope to set up individual meetings to explore your level of interest and comfort with not only code, but all the areas covered in the conference. 
+We hope to set up individual meetings to explore your level of interest and comfort with not only code, but all the areas covered in the conference. We also hope that if you have relevant news you want to share with this community, you will let us know, so that we can include it in the upcoming newsletters :microphone: .
 
  
 
