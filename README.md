@@ -1,3 +1,20 @@
+#  ⚡ Suggested programs ⚡
+
+Recommended Integrated Development Environment (IDE): VSCode  
+
+        Alternative IDEs: Pycharm, IDLE etc.  
+
+
+Recommended Package Manager: Conda/Anaconda 
+
+        Alternative Package Managers: Pip(not recommended), Mamba (will take effort and lots of knowledge) 
+
+
+Version control (VC): Git 
+
+        Alternative VC: existing VC was done in Git so the only alternative at this point we can imaging is Perforce (not recommended because nobody in the core teams will know how to help you, good thing you are a genius) 
+
+
 #  ⚡ Learning ⚡
 
 Binders and other resources for learning the basic computational skills needed to understand our work.
