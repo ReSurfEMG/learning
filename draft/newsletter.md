@@ -5,7 +5,7 @@ Welcome to the ReSurfEMG newsletter. You will sporadically receive this newslett
 
 --> Within a couple of weeks you will receive the email to officially register for the Masterclass from the Lorentz center. Please keep your eyes open for the email, and register soon after you get it.  
  
---> In this edition of the newsletter we will highlight the basic tool sets for in-depth EMG analysis, which we will discuss during the Masterclass. Many of you will be familiar with using Matlab or a pre-programmed Excel spreadsheet. When we created ReSurfEMG, we aimed to create open tools which could be used across all groups working on respiratory EMG. Although there is the option to tweak all the filter and analysis settings, the software also allows for analysis with custom preprocessing and in the future even a dashboard application.  
+--> In this edition of the newsletter we would like to highlight the basic tool sets to use the ReSurfEMG software, which we will discuss during the Masterclass. Many of you will be familiar with using Matlab or a pre-programmed Excel spreadsheet. When we created ReSurfEMG, we aimed to create open tools which could be used across all groups working on respiratory EMG. Although there is the option to tweak all the filter and analysis settings, the software also allows for analysis with custom preprocessing and in the future even a dashboard application.  
 
 Everyone can share and contribute to our sofwatre package, even if they are not able to code in Python. However, as our software is written in Python we want to point out some tips to those among you enthusiastic about working with the code itself. Therefore, in our [learning repository](https://github.com/ReSurfEMG/learning) you will find the suggested programs to use the software. We highly recommend you use our prescribed stack if you are relatively new to working with Python. Not only will you be in the same boat as most of the original developers, but by installing with Conda you avoid conflicting packages creating unexpected behavior.  
 
@@ -13,8 +13,4 @@ Everyone can share and contribute to our sofwatre package, even if they are not 
 
 We hope to set up individual meetings to explore your level of interest and comfort with not only code, but all the areas covered in the Masterclass. We also hope that if you have relevant news you want to share with this community, you will let us know, so that we can include it in the upcoming newsletters.
 
-Welcome!  
-
-The ReSurfEMG Team 
-
- 
+The ReSurfEMG Team  
