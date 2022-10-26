@@ -28,7 +28,7 @@ Video demonstration: to see videos click the links below (more on the way)
 [![VIDEO SHOULD OPEN FROM HERE](https://img.youtube.com/vi/JK4wCsqnVdQ/0.jpg)](https://youtu.be/JK4wCsqnVdQ)
 
 
-[![VIDEO SHOULD OPEN FROM HERE](https://i3.ytimg.com/vi/X4TDZzDOvMg/maxresdefault.jpg)](https://youtu.be/X4TDZzDOvMg)
+[![VIDEO SHOULD OPEN FROM HERE]((https://img.youtube.com/vi/X4TDZzDOvMg/0.jpg)](https://youtu.be/X4TDZzDOvMg)
 
 
 ✨Copyright 2022 Netherlands eScience Center and U. Twente
