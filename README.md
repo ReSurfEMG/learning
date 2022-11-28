@@ -1,4 +1,10 @@
-#  ⚡ Suggested programs ⚡
+# Learning 
+<p align="center">
+    <img style="width: 25%; height: 25%" src="https://github.com/resurfemg/resurfemg/blob/main/Logo_rond_tekst.svg">
+</p>
+
+
+##  ⚡ Suggested programs for working with ReSurfEMG⚡
 
 Recommended Integrated Development Environment (IDE): VSCode  
 
@@ -15,7 +21,7 @@ Version control (VC): Git
         Alternative VC: existing VC was done in Git so the only alternative at this point we can imagine is Perforce (not recommended because nobody in the core teams will know how to help you, good thing you are a genius) 
 
 
-#  ⚡ Learning ⚡
+##  ⚡ Learning Materials⚡
 
 Binders and other resources for learning the basic computational skills needed to understand our work.
 
