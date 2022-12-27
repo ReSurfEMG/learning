@@ -31,11 +31,13 @@ For a practical beginner introduction to Python, we reccomend [the software carp
 
 Video demonstrations: to see videos click the links below (more on the way)
 
+About binders:
 [![VIDEO SHOULD OPEN FROM HERE](https://img.youtube.com/vi/JK4wCsqnVdQ/0.jpg)](https://youtu.be/JK4wCsqnVdQ)
 
-
+About the dashboard:
 [![VIDEO SHOULD OPEN FROM HERE](https://img.youtube.com/vi/X4TDZzDOvMg/0.jpg)](https://youtu.be/X4TDZzDOvMg)
 
+About the researcher interface:
 [![VIDEO SHOULD OPEN FROM HERE](https://img.youtube.com/vi/oY6ZhzxDl9k/0.jpg)](https://youtu.be/oY6ZhzxDl9k)
 
 
