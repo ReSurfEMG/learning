@@ -29,12 +29,14 @@ Binders and other resources for learning the basic computational skills needed t
 
 For a practical beginner introduction to Python, we reccomend [the software carpentry on Python](https://swcarpentry.github.io/python-novice-inflammation/). You should also pick up version control as early as possible, we reccomend [this carpentry tutorial](https://swcarpentry.github.io/git-novice/). For some tips on coding on our project, see our [best_practices.md](https://github.com/ReSurfEMG/learning/blob/main/best_practices.md)  file .To learn notebook navigation, as well as more specific tips about ReSurfEMG we reccomend using our Jupyter binders (just click on the badge links like this one: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ReSurfEMG/learning/main)). Did you start tinkering somewhere and make a mistake? See our [fixing_mistakes.md](https://github.com/ReSurfEMG/learning/blob/main/fixing_mistakes.md) file.
 
-Video demonstration: to see videos click the links below (more on the way)
+Video demonstrations: to see videos click the links below (more on the way)
 
 [![VIDEO SHOULD OPEN FROM HERE](https://img.youtube.com/vi/JK4wCsqnVdQ/0.jpg)](https://youtu.be/JK4wCsqnVdQ)
 
 
 [![VIDEO SHOULD OPEN FROM HERE](https://img.youtube.com/vi/X4TDZzDOvMg/0.jpg)](https://youtu.be/X4TDZzDOvMg)
+
+[![VIDEO SHOULD OPEN FROM HERE](https://img.youtube.com/vi/oY6ZhzxDl9k/0.jpg)](https://youtu.be/oY6ZhzxDl9k)
 
 
 ✨Copyright 2022 Netherlands eScience Center and U. Twente
