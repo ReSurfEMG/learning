@@ -14,3 +14,4 @@ To get the most from this tutorial you will need to:
 
 1. To bring your laptop
 2. Have an integrated development environment (IDE) already installed on your laptop.
+3. If you do not already have conda and/or mamba on your machine, get Anaconda/conda
