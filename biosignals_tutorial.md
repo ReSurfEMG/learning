@@ -13,5 +13,6 @@ This tutorial will cover multiple topics:
 To get the most from this tutorial you will need to:
 
 1. To bring your laptop
-2. Have an integrated development environment (IDE) already installed on your laptop.
+2. Have an integrated development environment (IDE) e.g. VS Code, already installed on your laptop.
 3. If you do not already have conda and/or mamba on your machine, get Anaconda/conda
+4. Have Git on your laptop [recommended download](https://git-scm.com/)
