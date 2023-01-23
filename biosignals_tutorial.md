@@ -16,3 +16,4 @@ To get the most from this tutorial you will need to:
 2. Have an integrated development environment (IDE) e.g. VS Code ([download](https://code.visualstudio.com/Download)), already installed on your laptop.
 3. If you do not already have conda and/or mamba on your machine, get Anaconda/conda([instructions](https://docs.anaconda.com/anaconda/install/))
 4. Have Git on your laptop [recommended download](https://git-scm.com/)
+5. Have Python 3 (if you need to get look [here] (https://www.python.org/downloads/))
