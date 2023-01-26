@@ -17,3 +17,4 @@ To get the most from this tutorial you will need to:
 3. If you do not already have conda and/or mamba on your machine, get Anaconda/conda([instructions](https://docs.anaconda.com/anaconda/install/))
 4. Have Git on your laptop [recommended download](https://git-scm.com/)
 5. Have a Python 3.8 or above ( if you need to get look [here](https://www.python.org/downloads/) )
+6. Sign up for [Github](https://github.com/) if you do not have an account. This is where the repository and tutorial material are. 
