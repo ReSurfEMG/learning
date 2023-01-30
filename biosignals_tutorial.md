@@ -20,6 +20,8 @@ To get the most from this tutorial you will need to:
 6. Sign up for [Github](https://github.com/) if you do not have an account. This is where the repository and tutorial material are. 
 7. Clone the [ReSurfEMG/ReSurfEMG](https://github.com/ReSurfEMG/ReSurfEMG) repository onto your machine because the first time you clone a repository will take longer than ever again if you have not been using Git. For this reason we ask you to clone a repo before arriving. You may need to set up git.
 
-Setup git: 
-git config -- global user.name <your username>
-git config -- global user.email <your valid email>
+    Setup git: 
+
+        git config -- global user.name <your username>
+        
+        git config -- global user.email <your valid email>
