@@ -18,10 +18,10 @@ To get the most from this tutorial you will need to:
 4. Have Git on your laptop [recommended download](https://git-scm.com/)
 5. Have a Python 3.8 or above ( if you need to get look [here](https://www.python.org/downloads/) )
 6. Sign up for [Github](https://github.com/) if you do not have an account. This is where the repository and tutorial material are. 
-7. Clone the [ReSurfEMG/ReSurfEMG](https://github.com/ReSurfEMG/ReSurfEMG) repository onto your machine because the first time you clone a repository will take longer than ever again if you have not been using Git. For this reason we ask you to clone a repo before arriving. You may need to set up git.
+7. Clone the [ReSurfEMG/ReSurfEMG](https://github.com/ReSurfEMG/ReSurfEMG) repository onto your machine because the first time you clone a repository will take longer than ever again if you have not been using Git. For this reason we ask you to clone a repo before arriving. You may need to set up git as below:
 
     Setup git: 
 
-        git config -- global user.name <your username>
-        
-        git config -- global user.email <your valid email>
+        git config --global user.name <your username>
+
+        git config --global user.email <your valid email>
