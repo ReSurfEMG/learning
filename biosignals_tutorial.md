@@ -25,3 +25,11 @@ To get the most from this tutorial you will need to:
         git config --global user.name <your username>
 
         git config --global user.email <your valid email>
+
+8. Build the code environment in the workshop.yml by exiting any existing environment, then running 
+        ```conda env create -f workshop.yml ```
+
+9. Clone the [dashboard](https://github.com/ReSurfEMG/ReSurfEMG-dashboard)
+
+10. Build the dashboard environment after you are inside the dashboard repo with the environment.yml by exiting any existing environment, then running 
+        ```conda env create -f environment.yml ```
