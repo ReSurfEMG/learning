@@ -1,4 +1,4 @@
-ReSurfEMG Newsletter # 2: FOSS fridays and "Git"ing it done : scheduling Dr. Moore to work with you!
+ReSurfEMG Newsletter # 4: FOSS fridays and "Git"ing it done : scheduling Dr. Moore to work with you!
 
 This newsletter is a personal note from Dr. Candace Makeda Moore. SHe will be available on Fridays until the Lorentz center event. Details are below in her note:
 
